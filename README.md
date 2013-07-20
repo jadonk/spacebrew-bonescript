@@ -7,12 +7,12 @@ globally.
 
 Here are the rough steps to follow:
 
-# Add a Bacon Cape to a BeagleBone on the Internet
-# git clone git://github.com/jadonk/spacebrew-bonescript
-# cd spacebrew-bonescript
-# npm install ws@0.4.27
-# node bacon_test1.js
-# Browse to http://spacebrew.github.io/spacebrew/admin/admin.html?server=sandbox.spacebrew.cc to see your live connections
+* Add a Bacon Cape to a BeagleBone on the Internet
+* git clone git://github.com/jadonk/spacebrew-bonescript
+* cd spacebrew-bonescript
+* npm install ws@0.4.27
+* node bacon_test1.js
+* Browse to http://spacebrew.github.io/spacebrew/admin/admin.html?server=sandbox.spacebrew.cc to see your live connections
 
 Alternatively, you can serve it locally. I tested this by installing and running the
 server, adding a server name in the test file and browsing to http://spacebrew.github.io/spacebrew/admin/admin.html?server=192.168.7.2, where 192.168.7.2 is the address of my
