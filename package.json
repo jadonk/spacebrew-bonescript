@@ -1,0 +1,27 @@
+{
+  "name": "spacebrew-bonescript",
+  "version": "0.0.0",
+  "description": "Demonstrate connecting to Spacebrew with BoneScript physical interactions",
+  "main": "bacon_test1.js",
+  "dependencies": {
+    "ws": "~0.4.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bacon_test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jadonk/spacebrew-bonescript"
+  },
+  "keywords": [
+    "internet-of-things",
+    "arduino",
+    "bonescript",
+    "beaglebone",
+    "spacebrew",
+    "publish-and-subscribe"
+  ],
+  "author": "Jason Kridner",
+  "license": "MIT"
+}
